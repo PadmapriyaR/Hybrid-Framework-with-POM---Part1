@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32919" started-at="2017-12-06T16:54:01Z" finished-at="2017-12-06T16:54:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32919" started-at="2017-12-06T16:54:01Z" finished-at="2017-12-06T16:54:34Z">
+      <class name="com.crmpro.qa.testdata.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crmpro.qa.testdata.LoginPageTest@12cc05a]" name="setUp" is-config="true" duration-ms="14708" started-at="2017-12-06T22:39:01Z" finished-at="2017-12-06T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleValidate()[pri:1, instance:com.crmpro.qa.testdata.LoginPageTest@12cc05a]" name="loginPageTitleValidate" duration-ms="91" started-at="2017-12-06T22:39:16Z" finished-at="2017-12-06T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleValidate -->
+        <test-method status="PASS" signature="crmLogoTest()[pri:2, instance:com.crmpro.qa.testdata.LoginPageTest@12cc05a]" name="crmLogoTest" duration-ms="164" started-at="2017-12-06T22:39:16Z" finished-at="2017-12-06T22:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- crmLogoTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.crmpro.qa.testdata.LoginPageTest@12cc05a]" name="loginTest" duration-ms="16598" started-at="2017-12-06T22:39:16Z" finished-at="2017-12-06T22:39:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.crmpro.qa.testdata.LoginPageTest@12cc05a]" name="closeAll" is-config="true" duration-ms="1259" started-at="2017-12-06T22:39:33Z" finished-at="2017-12-06T22:39:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.crmpro.qa.testdata.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
